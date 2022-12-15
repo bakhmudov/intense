@@ -1,0 +1,11 @@
+ul {
+    list-style-type:lower-greek;
+}
+
+ol ul {
+    list-style-type:none;
+}
+
+ol ul li {
+    display: inline;
+}
