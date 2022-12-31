@@ -1,0 +1,24 @@
+.container {
+    width: 700px;
+    height: 1500px;
+    background-color: bisque;
+}
+
+.block1 {
+    height: 100px;
+    background-color: aqua;
+}
+
+.block2 {
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    top: 50%;
+    right: 50%;
+    background-color: rgb(0, 128, 23);
+}
+
+.block3 {
+    height: 100px;
+    background-color: rgb(144, 31, 0);
+}
